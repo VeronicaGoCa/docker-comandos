@@ -1,8 +1,8 @@
 # 🐳 Gestión completa para comandos para archivos Docker file
 ---
-## 1️⃣ Crear una imagen
+## 1️⃣ Imagen
 
-### Ver contenedores activos
+### Crear una imagen
 ```
 docker built -t nombre_contenedor
 ```
