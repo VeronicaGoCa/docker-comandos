@@ -1,4 +1,4 @@
-# 🐳 Gestión completa para comandos para archivos Docker file
+# 🐳 Comandos para archivos Docker file
 ---
 ## 1️⃣ Imagen
 
